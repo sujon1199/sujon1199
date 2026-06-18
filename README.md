@@ -1,6 +1,6 @@
 Hi there 👋
 
-<h2 style="text-align: center; font-weight: bold; color: purple;">This is MD Sujon Islam</h2>
+<div style="align: center; font-weight: bold; color: purple;">## This is MD Sujon Islam</div>
 
 Here are some ideas to get you started:
 
