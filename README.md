@@ -1,6 +1,6 @@
 Hi there 👋
 
-<h2 style="text-align:center; font-weight:bold; color: purple">I am a full stack developer</h2>
+<h2 style="text-align: center; font-weight: bold; color: purple;">This is MD Sujon Islam</h2>
 
 Here are some ideas to get you started:
 
