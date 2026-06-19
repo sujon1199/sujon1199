@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [portfolio](sujon.top)
+- 🔭 I’m currently working on [note-extension](https://github.com/sujon1199/note-extension)
 
-- 🌱 I’m currently learning **NextJs, VueJs**
+- 🌱 I’m currently learning **NextJs, MERN, VueJs**
 
 - 👯 I’m looking to collaborate on [MERN project](sujon.top)
 
